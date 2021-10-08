@@ -12,3 +12,5 @@ During the name resolution process, which server does a local recursive server c
 A company with a large number of hosts creates three subdomains under a main domain. For easier management of the host records, how many zones should be used? [4]
 What term defines keeping the address of one computer secret from another?[masquering]
 During the name resolution process, which technique is used to avoid congestion when querying a server?[Anycast]
+Another term for POTS, or the Plain Old Telephone System, is _______________. [PSTN]
+A baud rate is a measurement of the number of ______________________. [bit that can be sent across a telephone line every second]
