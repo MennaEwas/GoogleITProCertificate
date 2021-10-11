@@ -20,3 +20,4 @@ A point-to-point VPN is also known as a ______________.
 The protocol used to communicate network errors is known as __________. [ICMP]
 The ping utility sends what message type? [Echo Request]
 On Windows, one of the tools you can use to verify connectivity to a specific port is ________. [Test-NetConnection]
+On Windows, one of the tools you can use to verify connectivity to a specific port is ________. [Test-NetConnection]
