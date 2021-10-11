@@ -20,4 +20,7 @@ A point-to-point VPN is also known as a ______________.
 The protocol used to communicate network errors is known as __________. [ICMP]
 The ping utility sends what message type? [Echo Request]
 On Windows, one of the tools you can use to verify connectivity to a specific port is ________. [Test-NetConnection]
-On Windows, one of the tools you can use to verify connectivity to a specific port is ________. [Test-NetConnection]
+One of Level 3's public DNS servers is ____________. [4.4.4.2]
+A DNS resolver tool available on all major desktop operating systems is __________. [nslookup]
+The organization responsible for DNS at a global level is ________.[ICANN]
+A piece of software that runs and manages virtual machines is known as a __________. [hypervisor]
