@@ -24,3 +24,7 @@ One of Level 3's public DNS servers is ____________. [4.4.4.2]
 A DNS resolver tool available on all major desktop operating systems is __________. [nslookup]
 The organization responsible for DNS at a global level is ________.[ICANN]
 A piece of software that runs and manages virtual machines is known as a __________. [hypervisor]
+The IPv6 header field that indicates how many routers can forward a packet before it's discarded is called the ________. [Hop limit Field]
+2​b​0​6​:​0​0​0​0​:​0​0​0​0​:​1​f​2​b​:​d​7​7​f​:​0​0​0​0​:​0​0​0​0​:​8​9​c​e​ = 2​b​0​6​::​1​f​2​b​:​d​7​7​f​:​0​:​0​:​8​9​c​e​
+
+Network interview: https://www.coursera.org/learn/computer-networking/lecture/oxwYp/interview-role-play-networking
