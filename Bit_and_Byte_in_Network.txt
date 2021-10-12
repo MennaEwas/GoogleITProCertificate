@@ -28,3 +28,7 @@ The IPv6 header field that indicates how many routers can forward a packet befor
 2​b​0​6​:​0​0​0​0​:​0​0​0​0​:​1​f​2​b​:​d​7​7​f​:​0​0​0​0​:​0​0​0​0​:​8​9​c​e​ = 2​b​0​6​::​1​f​2​b​:​d​7​7​f​:​0​:​0​:​8​9​c​e​
 
 Network interview: https://www.coursera.org/learn/computer-networking/lecture/oxwYp/interview-role-play-networking
+ICMP stands for ________.[Internet Control Message]
+While in an interactive nslookup session, you'd use the ______ keyword to change the DNS server you're using. [Server]
+With virtualization, a single physical machine, called a host, can run many individual virtual instances, called ______. [Gusets]
+For all IPv6 addresses, the network ID is always the first ______ bits. [64]
