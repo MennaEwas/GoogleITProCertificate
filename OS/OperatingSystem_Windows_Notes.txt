@@ -9,3 +9,7 @@ change command directory: cd c:\Users
 get to level above your current directory: cd .. 
 create file: mkdir my_cool
 The earlier created folders: history
+Copy file: cp name 
+copy over the .jpg in the file: cp *jpg path 
+copy f1 to f2: cp f1 f2 
+copy over the content of the folder: cp 'Links' C:\Menna -Recurse -Verbose
