@@ -7,3 +7,4 @@ to see even hidden files: ls -Force c:\
 where Iam: pwd 
 change command directory: cd c:\Users
 get to level above your current directory: cd .. 
+create file: mkdir my_cool
