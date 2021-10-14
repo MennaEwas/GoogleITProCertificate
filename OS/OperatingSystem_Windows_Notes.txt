@@ -21,3 +21,8 @@ q to quit reading the content
 to view part of the file: (fist 3 lines): cat 1.md -Head 3
 -Tail for tail 
 open sth in notepad to be edited: start Notepad++ sth 
+Is, Get-Alias
+Find word in multiple file: open start >> indexing options >> users 
+Search a word in a file: Select-String word file 
+in all txt: select-string word *.txt
+Search within Directory: ls 'directory name' -Recurse -Filter *exe
