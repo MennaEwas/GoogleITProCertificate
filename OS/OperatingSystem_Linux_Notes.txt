@@ -10,3 +10,9 @@ Verify: ls
 Exact for coping 
 Removing is just like windows: rm name 
 rm -r name (Recurse)
+to read a simple file use: cat 
+Similar to more: less name 
+g- to the beginning G- to the end of the file 
+search: /name_search 
+quit: q-
+first 10 lines of a file: head name [tail]
