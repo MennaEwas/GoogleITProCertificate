@@ -4,3 +4,6 @@ On powerShell:-
 List files:  ls c:\ 
 text describing the files in the system: Get-help ls -Full 
 to see even hidden files: ls -Force c:\ 
+where Iam: pwd 
+change command directory: cd c:\Users
+get to level above your current directory: cd .. 
