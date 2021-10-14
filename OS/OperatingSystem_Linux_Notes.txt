@@ -20,3 +20,9 @@ Nano is a lightening editor for Linux
 Edit file in nano: Nano name 
 crt K, G, X to save 
 Searching for a word: grep word file.txt or grep word *file.txt 
+appending and creatiing is same as Windows 
+Usuing file in inputing: cat <file_input.txt
+Redirecting in Linux: < 
+$_null: /dev/null 
+Redirect standard error: 2> 
+ls -la /etc | greb blutooth # serach for a word in all the list 
