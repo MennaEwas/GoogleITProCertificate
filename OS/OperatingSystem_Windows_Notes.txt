@@ -8,3 +8,4 @@ where Iam: pwd
 change command directory: cd c:\Users
 get to level above your current directory: cd .. 
 create file: mkdir my_cool
+The earlier created folders: history
