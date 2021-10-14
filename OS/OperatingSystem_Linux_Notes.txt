@@ -7,3 +7,4 @@ All option: ls -la / = ls -l -a
 also use pwd, cd and so 
 create files: mkdir my_cool_folder or mkdir my\ cool\ folder or mkdir 'my cool folder'
 Verify: ls 
+Exact for coping 
