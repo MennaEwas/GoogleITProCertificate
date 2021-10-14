@@ -26,3 +26,11 @@ Find word in multiple file: open start >> indexing options >> users
 Search a word in a file: Select-String word file 
 in all txt: select-string word *.txt
 Search within Directory: ls 'directory name' -Recurse -Filter *exe
+> to redirect 
+write w in file: echo w > file or echo w >> file 
+cat word.txt | Select-String st > st_words.txt 
+
+rm secure_file 2> errors.txt
+cat  errors.txt
+
+redirection: rm secure_file 2> $_null
