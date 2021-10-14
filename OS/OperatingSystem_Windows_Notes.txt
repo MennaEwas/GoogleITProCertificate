@@ -16,3 +16,7 @@ copy over the content of the folder: cp 'Links' C:\Menna -Recurse -Verbose
 Rename: mv '.\Menna''s\' Menna
 Remove a file or folder: rm regulations.md
 If it is file system: rm regulations.md -Force or  rm regulations.md -Recurse 
+Concate: cat 1.md , more 1.md [content of the file]
+q to quit reading the content 
+to view part of the file: (fist 3 lines): cat 1.md -Head 3
+-Tail for tail 
