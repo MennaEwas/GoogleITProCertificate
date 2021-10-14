@@ -16,3 +16,6 @@ g- to the beginning G- to the end of the file
 search: /name_search 
 quit: q-
 first 10 lines of a file: head name [tail]
+Nano is a lightening editor for Linux 
+Edit file in nano: Nano name 
+crt K, G, X to save 
