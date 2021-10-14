@@ -1,0 +1,6 @@
+Subdirectories are separated by / in linux and \ in windows
+The Size on disk measurement is more complicated. If the drive supports compression (as reported by the FILE_FILE_COMPRESSION flag returned by the Get­Volume­Information function) and the file is compressed or sparse (FILE_ATTRIBUTE_COMPRESSED, FILE_ATTRIBUTE_SPARSE_FILE), then the Size on disk for a file is the value reported by the Get­Compressed­File­Size function. This reports the compressed size of the file (if compressed) or the size of the file minus the parts that were de-committed and logically treated as zero (if sparse). If the file is neither compressed nor sparse, then the Size on disk is the file size reported by the Find­First­File function rounded up to the nearest cluster.
+On powerShell:- 
+List files:  ls c:\ 
+text describing the files in the system: Get-help ls -Full 
+to see even hidden files: ls -Force c:\ 
