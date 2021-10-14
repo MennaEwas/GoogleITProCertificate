@@ -13,4 +13,6 @@ Copy file: cp name
 copy over the .jpg in the file: cp *jpg path 
 copy f1 to f2: cp f1 f2 
 copy over the content of the folder: cp 'Links' C:\Menna -Recurse -Verbose
-mv '.\Menna''s\' Menna
+Rename: mv '.\Menna''s\' Menna
+Remove a file or folder: rm regulations.md
+If it is file system: rm regulations.md -Force or  rm regulations.md -Recurse 
