@@ -13,3 +13,4 @@ Copy file: cp name
 copy over the .jpg in the file: cp *jpg path 
 copy f1 to f2: cp f1 f2 
 copy over the content of the folder: cp 'Links' C:\Menna -Recurse -Verbose
+mv '.\Menna''s\' Menna
