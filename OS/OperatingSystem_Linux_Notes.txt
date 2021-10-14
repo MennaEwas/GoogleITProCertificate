@@ -1,1 +1,6 @@
 Same with Windows notes but on Linux
+File listing: ls/ 
+to know more about flags use: ls --help
+Lookup files: man ls
+for more info about files: ls -l /
+All option: ls -la / = ls -l -a
