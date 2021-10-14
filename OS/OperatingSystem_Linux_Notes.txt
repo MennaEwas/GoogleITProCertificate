@@ -26,3 +26,4 @@ Redirecting in Linux: <
 $_null: /dev/null 
 Redirect standard error: 2> 
 ls -la /etc | greb blutooth # serach for a word in all the list 
+https://googlecoursera.qwiklabs.com/focuses/18177722?parent=lti_session 
