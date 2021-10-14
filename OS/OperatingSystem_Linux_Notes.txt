@@ -19,3 +19,4 @@ first 10 lines of a file: head name [tail]
 Nano is a lightening editor for Linux 
 Edit file in nano: Nano name 
 crt K, G, X to save 
+Searching for a word: grep word file.txt or grep word *file.txt 
