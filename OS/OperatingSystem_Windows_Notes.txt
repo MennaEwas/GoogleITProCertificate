@@ -34,3 +34,13 @@ rm secure_file 2> errors.txt
 cat  errors.txt
 
 redirection: rm secure_file 2> $_null
+
+File Systems: 
+Diskpart 
+list disk
+select disk 1 
+clean
+create partition primary 
+select partition 1 
+active 
+format FS=NTFS label=my-thumb-drive
