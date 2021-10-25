@@ -44,3 +44,5 @@ create partition primary
 select partition 1 
 active 
 format FS=NTFS label=my-thumb-drive
+{mklink file_1_symlink file_1.txt 
+notepad.exe file_1_symlink} Window
