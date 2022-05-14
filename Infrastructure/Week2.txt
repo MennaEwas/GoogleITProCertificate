@@ -1,0 +1,8 @@
+Let's say that you're the sole IT person at your company. The company is a very small startup, and they need to set up a few non-critical services and have a single physical server in place. What's the best approach to fully utilize this server?
+If you wanted to securely transfer files from your local machine to a web server, what file transfer protocol could you use?
+Google’s GSuite is an example of which Cloud service?
+Which are advantages of using a server operating system?
+In Linux, the most popular remote access tool is OpenSSH. Which software performs the same remote command line (CLI) access from a Windows machine? Check all that apply.
+What is the main advantage of using DHCP?
+You want to access the CLI (command line interface) of a Linux terminal at work from your Apple laptop at home. You have the proper client installed on your laptop. What needs to be installed on the remote Linux machine?
+Which of the following is not a network file transfer protocol?
